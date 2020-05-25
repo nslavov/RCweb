@@ -6,7 +6,7 @@ This repository contains code the RCweb algorythm that allows inference of spars
 
 
 
-![Comparing the performance of different methods for network inference](Sparse-network-inference.png)
+![Comparing the performance of different methods for network inference](Figs/Sparse-network-inference.png)
 
 
 ## Functions and scripts reproducing the analysis reported by [Slavov, 2010](https://arxiv.org/abs/1406.0193)
@@ -26,9 +26,13 @@ This repository contains code the RCweb algorythm that allows inference of spars
 
 ## Supporting functions called by the scripts:
 data_Gen.m -- Simulates data from a model of a sparse network 
-c_corr.m  -- Computes the the correlations between the most correlated columns of two matrices 			
+c_corr.m  -- Computes the the correlations between the most correlated columns of two matrices 		
 
- 
+
+
+## [Video presentaion of the RCweb algorythm applied to transcriptional networks](https://youtu.be/P0-_gDUNikc?t=4550)
+
+![Inference of gene regulatroy networks](Figs/Inference-of-gene-regulatroy-networks.png)
 
 
 
