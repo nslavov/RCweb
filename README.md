@@ -37,4 +37,4 @@ c_corr.m  -- Computes the the correlations between the most correlated columns o
 
 
 ## Correspondence
-Questions can be directed to [Slavov Lab](http://slavovlab.net/)  
+Questions can be directed to the [Slavov Laboratory](http://slavovlab.net/)  
